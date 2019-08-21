@@ -6,11 +6,11 @@
 
 0) Инсталлировать 
     ```
-    pipenv run python -m pip install -e git+http://gitlab.groupbwt.com/root/proxy-server.git/#egg=bwt_scrapy_proxy&subdirectory=bwt_scrapy_proxy
+    pipenv run python -m pip install -e git+https://github.com/gendobr/scrapyproxy.git/#egg=bwt_scrapy_proxy
     ```
     или
     ```
-    pip install -e git+http://gitlab.groupbwt.com/root/proxy-server.git/#egg=bwt_scrapy_proxy&subdirectory=bwt_scrapy_proxy
+    pip install -e git+https://github.com/gendobr/scrapyproxy.git/#egg=bwt_scrapy_proxy
     ```
 
 0) в settings.py в словарь DOWNLOADER_MIDDLEWARES добавить

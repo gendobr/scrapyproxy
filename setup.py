@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'bwt_scrapy_proxy'
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
+URL = 'https://github.com/gendobr/scrapyproxy'
 EMAIL = 'dobrovolskyi_ha@groupbwt.com'
 AUTHOR = 'Hennadii Dobrovolskyi'
 REQUIRES_PYTHON = '>=3.6.0'
