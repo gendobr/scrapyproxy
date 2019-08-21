@@ -15,7 +15,7 @@ from setuptools import find_packages, setup, Command
 NAME = 'bwt_scrapy_proxy'
 DESCRIPTION = 'My short description for my project.'
 URL = 'https://github.com/gendobr/scrapyproxy'
-EMAIL = 'dobrovolskyi_ha@groupbwt.com'
+EMAIL = 'gen.dobr@gmail.com'
 AUTHOR = 'Hennadii Dobrovolskyi'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '0.1.0'
