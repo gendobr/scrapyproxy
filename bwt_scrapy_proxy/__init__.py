@@ -1,3 +1,5 @@
+name = "bwt_scrapy_proxy"
+
 from scrapy import signals
 
 

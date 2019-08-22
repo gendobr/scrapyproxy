@@ -12,7 +12,10 @@
     ```
     pip install -e git+https://github.com/gendobr/scrapyproxy.git/#egg=bwt_scrapy_proxy
     ```
-
+    или
+    ```
+    pip install bwt_scrapy_proxy
+    ```
 0) в settings.py в словарь DOWNLOADER_MIDDLEWARES добавить
    ```
    'bwt_scrapy_proxy.ProxyRotationMiddleware':530
